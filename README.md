@@ -1,3 +1,5 @@
+![Screenshot (1443)](https://user-images.githubusercontent.com/103936619/191764782-1df6dad3-6e6d-45b5-8139-02060c83ee09.png)
+
 <h1 align="center">Hi 👋, I'm Shabaz Ali Malik</h1>
 <h2 align="center">Full Stack Web Developer</h2>
 <h2 align="center">About</h2>
