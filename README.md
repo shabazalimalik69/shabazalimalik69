@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shabaz Ali Malik</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h2 align="center">Full Stack Web Developer</h2>
+<h2 align="center">About</h2>
+<p align="justify"> I am skilled at MERN Stack, HTML, CSS, JavaScript, Data Structure and Algorithm and a good record with project success.Professional, capable and motivated individual who consistently performs in challenging environments.Able to meet strict deadlines and willing to work as a key player in challenging and creative environment.My objectives are increasing my knowledge in computer science fields and new technologies especially, web development and web design field.Always looking forward to learn new technologies. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabazalimalik69&label=Profile%20views&color=0e75b6&style=flat" alt="shabazalimalik69" /> </p>
 
