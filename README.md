@@ -84,22 +84,30 @@ My experience includes designing and deploying **RESTful & GraphQL APIs**, integ
   <img src="https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Hosting
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 </p>
 
-**AWS Lambda • AWS SES • AWS SNS • AWS SQS • Docker • Kubernetes • CI/CD • Git**
+**AWS Lambda • AWS SES • AWS SNS • AWS SQS • Docker • Kubernetes • CI/CD • Vercel • Netlify • Render • Railway • Hostinger • cPanel • Git**
 
-### 🧪 Testing & Tools
+### 💳 Payments & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,postman" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,postman,jest" />
 </p>
 
-**Jest • Supertest • Postman**
+**Stripe • Razorpay • Git • Postman • Jest • Supertest**
 
 ---
 
@@ -170,7 +178,7 @@ A full-stack corporate operations portal with role-based access, CRM dashboards,
 
 # 🧠 What I Work With
 
-```text id="6842yt"
+```text
 Frontend
 React.js • Next.js • Redux Toolkit • Tailwind CSS • Material UI
         │
@@ -192,7 +200,11 @@ Redis             Apache Kafka           Grok
         │
         ▼
 Cloud & DevOps
-AWS • Docker • Kubernetes • CI/CD
+AWS • Docker • Kubernetes • CI/CD • Vercel • Netlify • Render • Railway • Hostinger • cPanel
+        │
+        ▼
+Payments & Tools
+Stripe • Razorpay • Git • Postman • Jest • Supertest
 ```
 
 ---
@@ -243,3 +255,4 @@ AWS • Docker • Kubernetes • CI/CD
 <p align="center">
   ⭐ Feel free to explore my repositories and connect with me!
 </p>
+```
