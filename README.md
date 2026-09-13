@@ -1,41 +1,245 @@
-![Screenshot (1443)](https://user-images.githubusercontent.com/103936619/191764782-1df6dad3-6e6d-45b5-8139-02060c83ee09.png)
+# Hi 👋, I'm Shabaz Ali Malik
 
-<h1 align="center">Hi 👋, I'm Shabaz Ali Malik</h1>
-<h2 align="center">Full Stack Web Developer</h2>
-<h2 align="center">About</h2>
-<p align="justify">Full Stack Engineer with 5+ years of experience engineering high-performance web applications, resilient backend architectures,
-and microservices using Node.js, TypeScript, React.js, and modern cloud databases. Proven record of deploying scalable RESTful
-& GraphQL APIs, real-time messaging pipelines with Socket.IO & BullMQ, and cloud infrastructure via AWS and Docker. Focused
-on clean code, automated testing, and reliable full-stack delivery. </p>
+### Full Stack & AI Engineer | Node.js • TypeScript • React.js • Generative AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabazalimalik69&label=Profile%20views&color=0e75b6&style=flat" alt="shabazalimalik69" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabazalimalik69" alt="shabazalimalik69" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@shabazalimalik" target="blank"><img src="https://img.shields.io/twitter/follow/@shabazalimalik?logo=twitter&style=for-the-badge" alt="@shabazalimalik" /></a> </p>
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://shabazalimalik69.github.io/](https://shabazalimalik69.github.io/)
-
-- 💬 Ask me about **HTML,CSS,JS,React,Redux,Mongo DB, Express, Node js**
-
-- 📫 How to reach me **shabazalimalik69@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qEegR0dLN2d1pa2wpslLHg94PwOeOgh7/view?usp=sharing](https://drive.google.com/file/d/1qEegR0dLN2d1pa2wpslLHg94PwOeOgh7/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shabazalimalik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shabazalimalik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shabaz-ali-malik-4ab412203" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabaz-ali-malik-4ab412203" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shabazalimalik69&label=Profile%20Views&color=0e75b6&style=flat" alt="shabazalimalik69" />
+  <a href="https://github.com/shabazalimalik69?tab=followers">
+    <img src="https://img.shields.io/github/followers/shabazalimalik69?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabazalimalik69&show_icons=true&locale=en&layout=compact" alt="shabazalimalik69" /></p>
+Full Stack & AI Engineer with **5+ years of experience** building high-performance web applications, resilient backend architectures, and AI-enabled workflows.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabazalimalik69&show_icons=true&locale=en" alt="shabazalimalik69" /></p>
+I specialize in building scalable applications using **Node.js, TypeScript, React.js, Next.js, PostgreSQL, MongoDB, Redis, AWS, and Generative AI**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabazalimalik69&" alt="shabazalimalik69" /></p>
+My experience includes designing and deploying **RESTful & GraphQL APIs**, integrating foundation LLMs such as **OpenAI, Anthropic Claude, Google Gemini, and Grok**, and building real-time and asynchronous messaging systems with **Socket.IO, BullMQ, RabbitMQ, and Apache Kafka**.
 
+* 🔭 Currently working as a **Full Stack Developer at Spiderweb Technologies Pvt Ltd**
+* 🤖 Building **AI-powered applications and LLM integrations**
+* ⚡ Experienced in scalable APIs, microservices, real-time applications, and background jobs
+* ☁️ Working with AWS services including **Lambda, SES, SNS, and SQS**
+* 🧪 Focused on clean code, automated testing, performance, and reliable production delivery
+* 👨‍💻 Portfolio: [shabazalimalik69.github.io](https://shabazalimalik69.github.io/)
+* 📫 Reach me at: **[shabazalimalik22@gmail.com](mailto:shabazalimalik22@gmail.com)**
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+</p>
+
+**React.js • Next.js • Redux Toolkit • Tailwind CSS • Material UI**
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge" />
+</p>
+
+**Node.js • Express.js • NestJS • RESTful APIs • GraphQL • Microservices Architecture**
+
+### 🤖 AI & LLM Integrations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/xAI%20Grok-000000?style=for-the-badge" />
+</p>
+
+**OpenAI API • Anthropic Claude • Google Gemini • Grok • Prompt Engineering • Streaming Responses • Function Calling**
+
+### 🗄️ Databases & Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+**PostgreSQL • MongoDB • MySQL • Redis**
+
+### ⚡ Realtime, Queues & Messaging
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EA4B71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+**AWS Lambda • AWS SES • AWS SNS • AWS SQS • Docker • Kubernetes • CI/CD • Git**
+
+### 🧪 Testing & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,postman" />
+</p>
+
+**Jest • Supertest • Postman**
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full Stack Developer — Spiderweb Technologies Pvt Ltd
+
+**Jul 2023 – Present | Remote**
+
+* Architect and scale robust full-stack applications using **TypeScript, Node.js, Express.js, and React.js**
+* Integrate multi-provider **LLM pipelines** using OpenAI, Anthropic Claude, and Google Gemini
+* Build AI-enabled workflows for **dynamic content generation, automated data extraction, and conversational agents**
+* Design and deploy high-throughput **RESTful APIs**
+* Optimize database query execution across **PostgreSQL and MongoDB**
+* Implement real-time chat and multi-channel notification systems using **Socket.IO and Firebase Cloud Messaging**
+* Build automated testing pipelines using **Jest and Supertest**
+
+---
+
+## 💻 Software Engineer — Microchip Payments Pvt Ltd
+
+**Mar 2021 – Jun 2023 | Karnataka, India**
+
+* Built and deployed an enterprise **WhatsApp chatbot** integrated with internal HR services
+* Engineered backend business logic, secure transaction endpoints, and payment workflows
+* Developed applications using **Node.js, Express.js, and MySQL**
+* Introduced **Redis caching** for heavy read operations to improve responsiveness and load capacity
+* Diagnosed critical production issues and refactored backend modules using modular and clean architecture principles
+
+---
+
+# 🚀 Featured Projects
+
+## 🏔️ Tourza Kashmir
+
+**Next.js • PostgreSQL • Redis • Socket.IO • BullMQ • AWS SES • Tailwind CSS**
+
+A production travel booking platform featuring real-time room availability, interactive maps, and a responsive user experience.
+
+### Key Highlights
+
+* 🏨 Built real-time travel and room availability features
+* 🤖 Developed an **AI itinerary generator** using OpenAI and Google Gemini APIs
+* 🗓️ Generated personalized travel schedules and cost breakdowns
+* ⚡ Built asynchronous booking workflows using **BullMQ and Redis**
+* 📧 Automated receipt and email workflows using **AWS SES**
+
+🔗 **View Project:** [Tourza Kashmir](https://shabazalimalik69.github.io/)
+
+---
+
+## 🏢 Core Call Solutions
+
+**React.js • Node.js • Express.js • MongoDB • Redis • Material UI**
+
+A full-stack corporate operations portal with role-based access, CRM dashboards, and client tracking.
+
+### Key Highlights
+
+* 🔐 Implemented role-based authentication and authorization
+* 📊 Built CRM dashboards and client management workflows
+* 🤖 Developed automated ticket classification and conversation summarization
+* 🧠 Integrated **Anthropic Claude and Grok APIs**
+* ⚡ Used Redis caching for fast analytical metric summaries
+* 🔌 Architected secure RESTful APIs connected with MongoDB
+
+---
+
+# 🧠 What I Work With
+
+```text id="6842yt"
+Frontend
+React.js • Next.js • Redux Toolkit • Tailwind CSS • Material UI
+        │
+        ▼
+Backend & APIs
+Node.js • TypeScript • Express.js • NestJS • REST • GraphQL
+        │
+        ▼
+Architecture
+Microservices • Real-time Systems • Background Jobs • Event-driven Workflows
+        │
+        ├───────────────┬────────────────┐
+        ▼               ▼                ▼
+Databases         Messaging & Queues     AI & LLM
+PostgreSQL        Socket.IO              OpenAI
+MongoDB           BullMQ                 Claude
+MySQL             RabbitMQ               Gemini
+Redis             Apache Kafka           Grok
+        │
+        ▼
+Cloud & DevOps
+AWS • Docker • Kubernetes • CI/CD
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabazalimalik69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabazalimalik69&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabazalimalik69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shabazalimalik69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shabaz-ali-malik-4ab412203">
+    <img src="https://img.shields.io/badge/LinkedIn-Shabaz%20Ali%20Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:shabazalimalik22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://shabazalimalik69.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable full-stack systems and AI-powered applications from idea to production. 🚀</i>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
